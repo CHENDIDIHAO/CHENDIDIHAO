@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Siyuan Chen
 
-<!--
-**CHENDIDIHAO/CHENDIDIHAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I maintain open-source forecasting repositories focused on reproducibility, benchmarking, and practical ML workflows.
 
-Here are some ideas to get you started:
+## Current work
+- Time-series forecasting
+- Research code maintenance
+- Model adaptation and evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured repositories
+- [Sparse-VQ](https://github.com/CHENDIDIHAO/Sparse-VQ)
+- [load_forecasting](https://github.com/CHENDIDIHAO/load_forecasting)
+- [autoresearch](https://github.com/CHENDIDIHAO/autoresearch)
+
+## Tech
+Python · PyTorch · Time-Series Forecasting · Power Systems
